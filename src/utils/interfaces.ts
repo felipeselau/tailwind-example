@@ -27,7 +27,7 @@ export interface iData extends Object{
 }
 
 interface iSocial {
-    name: String;
-    username: String;
-    logo: String;
+    name: string;
+    username: string;
+    logo: string;
 }
